@@ -17,7 +17,7 @@
 ## Screenshot
 
 ### 메인화면
-![메인화면](.img/ss1.png)
+![메인화면](./img/ss1.png)
 
 ## Built With / 누구랑 만들었나요?
 
