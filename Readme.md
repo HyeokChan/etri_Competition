@@ -1,4 +1,4 @@
-# 푸잉 푸잉
+# 푸잉 푸잉 (ETRI 인공지능 OPEN API 활용 공모전)
 
 ## 프로젝트 계획이유
 
@@ -14,16 +14,10 @@
 
 ![시퀀스 다이어그램](./img/se.png)
 
+## Screenshot
 
-### 테스트는 이런 식으로 작성하시면 됩니다
-
-```
-예시
-```
-
-## Deployment / 배포
-
-Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
+### 메인화면
+![메인화면](.img/ss1.png)
 
 ## Built With / 누구랑 만들었나요?
 
