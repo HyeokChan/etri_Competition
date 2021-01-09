@@ -43,6 +43,6 @@
 
 ## Built With
 
-* [이상민](링크)
-* [봉대현](Link)
-* [지규빈](Link)
+* [tkdals2317](https://github.com/tkdals2317)
+* [bongdaehyun](https://github.com/bongdaehyun)
+* [JI Kyu-Bin](https://github.com/jie1029)
