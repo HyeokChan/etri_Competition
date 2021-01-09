@@ -15,25 +15,34 @@
 ![시퀀스 다이어그램](./img/se.png)
 
 ## Screenshot
-
 ### 메인화면
-![메인화면](./img/ss1.png)
+![ss](./img/ss1.png)
+<br/>
+우측 하단의 플로팅 버튼을 통해 사진을 입력을 시작할 수 있습니다.
+### 사진 입력 방법
+![ss](./img/ss2.png) ![ss](./img/ss3.png) ![ss](./img/ss4.png)
+<br/>
+사진을 입력하는 방법은 두 가지가 있으며, 카메라를 눌러 즉시 사진을 찍거나 사진첩을 눌러 로컬 저장소에 있는 사진을 불러올 수 있습니다.
+### 로딩
+![ss](./img/ss5.png)
+<br/>
+입력한 사진의 데이터를 정제하는 과정이 필요합니다.
+### 결과 출력
+![ss](./img/ss6.png)
+<br/>
+성분에 대한 정보를 리사이클러뷰 형태로 제공하며, 리사이클러뷰의 항목을 클릭하면 해당 항목에 대한 위키백과 상세정보를 제공한다.
 
-## Built With / 누구랑 만들었나요?
+## 활용 범위
+### 활용 분야
+어플리케이션을 통한 서비스만이 아닌 식료품점, 약국 등 식품 성분표 규격에 맞는 기기를 생산하여 아이오티를 통해 성분, 재료 정보 제공 서비스로 발전할 수 있습니다.
+### 기대효과
+* 사진만 찍으면 되는 간편한 사용법으로 스마트폰에 익숙하지 않은 사람도 식품 성분표에 대한 정보를 얻을 수 있으므로 식품을 구매할 때 도움이 될 수 있습니다.
+* OCR 기능을 통하여 사진에서 글자를 인식하므로 작은 공간에 빽빽하게 쓰여진 작은 성분들을 쉽게 인지할 수 있습니다.
+* 번역기능을 제공하여 외국어로 되어있는 성분에 대해서도 알레르기로 인한 부작용을 방지할 수 있습니다.
+* 약품이나 식품의 성분에 대한 지식이 부족한 사용자들도 위키백과 QA API의 자세한 설명을 확인할 수 있습니다.
 
-* [이름](링크) - 무엇 무엇을 했어요
-* [Name](Link) - Create README.md
+## Built With
 
-## Contributiong / 기여
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. / [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 를 읽고 이에 맞추어 pull request 를 해주세요.
-
-## License / 라이센스
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details / 이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE.md 파일을 참고하세요.
-
-## Acknowledgments / 감사의 말
-
-* Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
-* Inspiration / 영감
-* etc / 기타
+* [이상민](링크)
+* [봉대현](Link)
+* [지규빈](Link)
