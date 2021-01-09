@@ -1,3 +1,5 @@
-etri °ø¸ðÀü Çù·ÂÀ» À§ÇÑ ÄÚµå °øÀ¯ 
+etri ê³µëª¨ì „ í˜‘ë ¥ì„ ìœ„í•œ ì½”ë“œ ê³µìœ  
 
-ÆÄÀÏÀ» pushÇÏ±â À§ÇØ¼­´Â commit ÈÄ push - ¼Ò½ºÆ®¸® ÀÌ¿ë
+íŒŒì¼ì„ pushí•˜ê¸° ìœ„í•´ì„œëŠ” commit í›„ push - ì†ŒìŠ¤íŠ¸ë¦¬ ì´ìš©
+
+ê°€ë‚˜ë‹¤ 123 abc
